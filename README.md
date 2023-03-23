@@ -3,7 +3,7 @@ Test application for getting currency rate
 ## Install
 Clone this repository to your local repository:<br/> 
 
-```git clone https://github.com/```
+```git clone https://github.com/vsevaq/currenccy_app.git```
 
 First of all you have to install all dependencies.
 Just write in your console:
