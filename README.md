@@ -27,6 +27,6 @@ To run REST api server open your terminal and type next command:
 
 ## Api documentation
 
-To check the api and point and description for them put next url to your browser line:
+To check api endpoints and description for them put next url to your browser line:
 
 ```http://localhost:5000/docs```
